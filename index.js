@@ -1,1 +1,5 @@
-console.log("this is from main branch and index.js!!!");
+console.log("welcome to git");
+for (var i=0;i<5;i++)
+{
+    console.log("code");
+}
